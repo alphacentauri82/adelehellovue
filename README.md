@@ -1,8 +1,8 @@
-# vue-adele-test
+# Hello.. Vue!
 
-> A fire and rain burning test
+> Inspired by Goncy!
 
-### DEMO: https://goncy.github.io/vue-adele-test/
+### DEMO: https://dist-yodqqobsal.now.sh/
 
 ## Build Setup
 
